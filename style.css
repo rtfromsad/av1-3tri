@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(104, 105, 104);
+}
+h1{
+    font-size: 60px;
+    color:black;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: rgb(241, 242, 243);
+    text-align: center;
+}
+img{
+    width: 450px;
+    height: 300px;
+    margin: 30px;
+    margin-left: 130px;
+}
+.cabecalho{
+    background-color: rgb(139, 137, 134);
+}
+ .lista_cabecalho{
+    display: flex;
+    margin-left: 800px;
+ }
+ .item_lista_cabecalho{
+    color: aliceblue;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 10px;
+
+ }
