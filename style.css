@@ -21,7 +21,7 @@ img{
     background-color: rgb(139, 137, 134);
 }
  .lista_cabecalho{
-    display: flex;
+    text-align: center;
     margin-left: 800px;
  }
  .item_lista_cabecalho{
